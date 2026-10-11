@@ -22,7 +22,7 @@ From the YASB bar to all the little tweaks that make it clean and productive.
 ---
 ## 🧩 Components
 This repository includes configuration for:
-- **Status Bar**: `[YASB](https://github.com/amnweb/yasb) `
+- **Status Bar**: `.[YASB](https://github.com/amnweb/yasb).`
 - **Window Managers**: `Hyprland`
 - **Terminals**: `ghostty`
 - **Taskbar**: `zsh`
