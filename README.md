@@ -20,6 +20,19 @@ From the YASB bar to all the little tweaks that make it clean and productive.
 </p>
 
 ---
+## 🧩 Components
+This repository includes configuration for:
+- **Window Managers**: `Hyprland`
+- **Terminals**: `ghostty`
+- **Shells**: `zsh`
+- **Multiplexer**: `tmux`
+- **Status Bar**: `waybar`
+- **Notifications**: `swaync`
+- **Launcher**: `rofi`
+- **Logout menu**: `wlogout`
+- **Audio visualizer**: `cava`
+
+---
 
 ## 📑 Table of Contents
 
