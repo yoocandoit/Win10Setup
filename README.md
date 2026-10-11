@@ -1,6 +1,6 @@
 <h1 align="center">✨ Windows 10 Setup ✨</h1>
 <p align="center">
-A personal Windows 10 customization guide, featuring YASB, desktop tweaks, and everything in between to create a clean, minimal, and productive workspace.
+A personal Windows 10 customization collection inspired by the Catppuccin Mocha color palette, featuring YASB, GlazeWM, and system tweaks for a clean, cohesive, and productive desktop experience.
  </p>
 
 <p align="center">
