@@ -2,9 +2,7 @@
 <p align="center">
 A personal Windows 10 customization guide, featuring YASB, desktop tweaks, and everything in between to create a clean, minimal, and productive workspace.
  </p>
----
 
-## Screenshoot
 <p align="center">
   <a href="https://github.com/yoocandoit/Win10Setup/commits">
   <img src="https://img.shields.io/github/last-commit/yoocandoit/Win10Setup?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
@@ -17,6 +15,8 @@ A personal Windows 10 customization guide, featuring YASB, desktop tweaks, and e
   </a>
 </p>
 
+---
+## Screenshoot
 <div align="center">
   <img src="Screenshot/Screenshot (8).png" alt="fastfetch" width="100%"/>
 </div>
