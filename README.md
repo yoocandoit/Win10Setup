@@ -32,7 +32,7 @@ A personal Windows 10 customization guide, featuring YASB, desktop tweaks, and e
 </div>
 
 <p align="center">
-Win 10 Setup
+Styled with the soothing Catppuccin Mocha color palette, blending soft mauve accents with deep, calming tones for a cohesive desktop aesthetic.
 </p>
 
 ---
