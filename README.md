@@ -22,12 +22,12 @@ From the YASB bar to all the little tweaks that make it clean and productive.
 ---
 ## 🧩 Components
 This repository includes configuration for:
-- **Status Bar**: `.[YASB](https://github.com/amnweb/yasb).`
-- **Window Managers**: `Hyprland`
-- **Terminals**: `ghostty`
-- **Taskbar**: `zsh`
-- **System Fetch**: `tmux`
-- **File Explorer Blur**: `ghostty`
+- **Status Bar**: `YASB`
+- **Window Managers**: `GlazeWM`
+- **Terminals**: `Window Terminal`
+- **Taskbar**: `TranslucentTB`
+- **System Fetch**: `Fastfetch`
+- **File Explorer Blur**: `ExplorerBlurMica`
 - **Audio visualizer**: `cava`
 
 ---
