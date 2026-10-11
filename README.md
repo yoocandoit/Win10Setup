@@ -8,7 +8,7 @@
   <a href="https://github.com/yoocandoit/Win10Setup/stargazers">
     <img src="https://img.shields.io/github/stars/yoocandoit/Win10Setup?style=for-the-badge&logo=github&label=Stars&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="GitHub Stars" />
   </a>
-<img src="https://img.shields.io/github/repo-size/yoocandoit/MochaaNeko?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e" alt="Repo Size" />
+<img src="https://img.shields.io/github/repo-size/yoocandoit/Win10Setup?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e" alt="Repo Size" />
 </p>
   </a>
 </p>
