@@ -62,3 +62,7 @@ This repository includes configuration for:
 | File Explorer Mod   | [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) |
 
 ---
+
+<p align="center">
+  Thanks for stopping by. Feel free to explore and make it your own.
+</p>
