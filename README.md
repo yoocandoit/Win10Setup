@@ -1,7 +1,7 @@
 <h1 align="center">✨ Windows 10 Setup ✨</h1>
 
 <div align="center">
-  <img src="Screenshots/Screenshot(8).png" alt="fastfetch" width="100%"/>
+  <img src="Screenshots/Screenshot (8).png" alt="fastfetch" width="100%"/>
 </div>
 
 <div align="center">
