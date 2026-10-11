@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="Screenshot/Screenshot (10).png"  alt="flow launcher" width="49%"/>
-  <img src="Screenshots/Screenshot 2026-09-29 190550.png" alt="wallpaper" width="49%"/>
+  <img src="Screenshot/Screenshot (12).png" alt="wallpaper" width="49%"/>
 </div>
 
 <p align="center">
