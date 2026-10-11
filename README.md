@@ -1,5 +1,18 @@
 <h1 align="center">✨ Windows 10 Setup ✨</h1>
 
+<p align="center">
+  <a href="https://github.com/yoocandoit/Win10Setup/commits">
+  <img src="https://img.shields.io/github/last-commit/yoocandoit/Win10Setup?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
+  </a>
+
+  <a href="https://github.com/yoocandoit/Win10Setup/stargazers">
+    <img src="https://img.shields.io/github/stars/yoocandoit/Win10Setup?style=for-the-badge&logo=github&label=Stars&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="GitHub Stars" />
+  </a>
+<img src="https://img.shields.io/github/repo-size/yoocandoit/MochaaNeko?style=for-the-badge&color=%23cba6f7&labelColor=%231e1e2e" alt="Repo Size" />
+</p>
+  </a>
+</p>
+
 <div align="center">
   <img src="Screenshot/Screenshot (8).png" alt="fastfetch" width="100%"/>
 </div>
