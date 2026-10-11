@@ -51,7 +51,7 @@ This repository includes configuration for:
 |---------------------|------------|
 | Status Bar          | [YASB](https://github.com/amnweb/yasb) |
 | Window Manager      | [GlazeWM](https://github.com/glzr-io/glazewm) |
-| Taskbar             | [Windhawk](https://github.com/ramensoftware/windhawk) |
+| Taskbar             | [TranslucentTB](https://github.com/translucenttb/translucenttb) |
 | Text Editor         | [VSCode](https://github.com/microsoft/vscode) |
 | Terminal            | [Windows Terminal](https://github.com/microsoft/terminal) |
 | System Fetch        | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) |   
