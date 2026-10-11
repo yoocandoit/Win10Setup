@@ -22,14 +22,12 @@ From the YASB bar to all the little tweaks that make it clean and productive.
 ---
 ## 🧩 Components
 This repository includes configuration for:
+- **Status Bar**: `[YASB](https://github.com/amnweb/yasb) `
 - **Window Managers**: `Hyprland`
 - **Terminals**: `ghostty`
-- **Shells**: `zsh`
-- **Multiplexer**: `tmux`
-- **Status Bar**: `waybar`
-- **Notifications**: `swaync`
-- **Launcher**: `rofi`
-- **Logout menu**: `wlogout`
+- **Taskbar**: `zsh`
+- **System Fetch**: `tmux`
+- **File Explorer Blur**: `ghostty`
 - **Audio visualizer**: `cava`
 
 ---
