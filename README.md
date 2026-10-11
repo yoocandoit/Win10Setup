@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="Screenshots/Screenshot 2026-09-29 185921.png" alt="btop and cava" width="49%"/>
-  <img src="Screenshots/Screenshot 2026-09-29 190344.png" alt="yazi" width="49%"/>
+  <img src="Screenshot/Screenshot (9).png" alt="btop and cava" width="49%"/>
+  <img src="Screenshot/Screenshot (11).png"  alt="yazi" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="Screenshots/Screenshot 2026-09-29 190528.png" alt="flow launcher" width="49%"/>
+  <img src="Screenshot/Screenshot (10).png"  alt="flow launcher" width="49%"/>
   <img src="Screenshots/Screenshot 2026-09-29 190550.png" alt="wallpaper" width="49%"/>
 </div>
 
