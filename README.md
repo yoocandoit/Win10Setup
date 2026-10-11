@@ -4,7 +4,6 @@
   <a href="https://github.com/yoocandoit/Win10Setup/commits">
   <img src="https://img.shields.io/github/last-commit/yoocandoit/Win10Setup?style=for-the-badge&logo=git&label=Last%20Commit&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="Last Commit" />
   </a>
-
   <a href="https://github.com/yoocandoit/Win10Setup/stargazers">
     <img src="https://img.shields.io/github/stars/yoocandoit/Win10Setup?style=for-the-badge&logo=github&label=Stars&color=%23cba6f7&labelColor=%231e1e2e&logoColor=%231e1e2e" alt="GitHub Stars" />
   </a>
@@ -28,7 +27,7 @@
 </div>
 
 <p align="center">
-A complete guide to my Windows 11 customization.
+A complete guide to my Windows 10 customization.
 From the YASB bar to all the little tweaks that make it clean and productive.
 </p>
 
